@@ -13,6 +13,8 @@ pip install threaded
 
 git clone https://github.com/Muxitdinovich/virus.git
 
+cd virus
+
 </pre>
 
 Run:
