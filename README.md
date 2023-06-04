@@ -4,6 +4,7 @@
 Работает для Windows:
 
 <pre>
+<button onclick="myFunction()">Copy text</button>
 
 pip install os-sys
 
